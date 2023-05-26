@@ -1,1 +1,2 @@
 # Northwind-Traders
+As the BI Developer for Northwind Traders, my role is to create a dynamic KPI dashboard for the executive team. The dashboard will provide a top-level view of sales trends, product performance, key customers, and shipping costs. With a focus on flexibility and data-driven insights, I aim to impress the VPs by delivering actionable recommendations to drive growth and improve operational efficiency.
