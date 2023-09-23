@@ -42,7 +42,9 @@ This repository is designed to facilitate efficient data analysis workflows, fro
 
 ## Snapshot 📸📸
 
-![Power BI](https://github.com/Tadeshee/Power_BI/assets/124716537/cc06ec6f-a0b4-4e30-a6f5-0b382c3003e2)
+![Power bi](https://github.com/SimranAnalyst/Power-BI/blob/f1a799e5ba8f892ff99c1cab5980e7516e3c1186/Screenshot%202023-09-23%20161700.png)
+
+
 ## Technologies Used 💻🔧
 Microsoft Power BI
 
